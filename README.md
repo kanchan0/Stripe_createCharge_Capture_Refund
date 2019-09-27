@@ -21,3 +21,5 @@ A express app to check the implementation of Stripe's basic functionality
 ##### 2. Creating charges.
 ##### 3. capturing the charges.
 ##### 4. refunding partial or full amount.
+
+### Remember this is only the backend part so use postman for APIs hit.You won't get any front end.
